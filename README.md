@@ -8,13 +8,14 @@
 <details>
   <summary>- 🎓 Formação Acadêmica</summary>
 
+<!-- FORMACAO:START-->
 - Contador
-
 - Analista e Desenvolvedor de Sistemas
 - Especialista em Ciências Contábeis
 - Especialista em Finanças
 - Especialista em Big Data Analytics
 - Mestre em Finanças
+<!-- FORMACAO:END -->
 
 </details>
 - 🌱 Estou constantemente estudando e aprendendo tudo o que posso 🤣 \
