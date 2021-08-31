@@ -76,6 +76,8 @@
 
 <img align="left" alt="Estatísticas do Github cfprocha" src="https://github-readme-stats.vercel.app/api?username=cfprocha&show_icons=true&hide_border=true&hide=stars,prs,issues,contribs&count_private=true&theme=tokionight" />
 
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=cfprocha&theme=blue-green)
+
 [website]: https://carlosfprocha.com.vc
 [twitter]: https://twitter.com/Paleo_
 [youtube]: https://www.youtube.com/c/CarlosPaleodaRocha
