@@ -40,6 +40,11 @@
 
 ### 📺 Meus últimos vídeos no YouTube
 <!-- YOUTUBE:START -->
+- [Multiplas janelas, no Zoom](https://www.youtube.com/watch?v=OljfT7eAgr0)
+- [OWASP Juice Shop](https://www.youtube.com/watch?v=RHPIKMwQrzw)
+- [Instalando MacOS X em máquina virtual](https://www.youtube.com/watch?v=UsPP4U2hko4)
+- [Usando o Overleaf para Trabalhos Acadêmicos](https://www.youtube.com/watch?v=egd9I8npAmk)
+- [Suporte Remoto no Zoom](https://www.youtube.com/watch?v=Cyzg9-a2Zh4)
 <!-- YOUTUBE:END -->
 
 ---
