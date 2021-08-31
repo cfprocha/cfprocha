@@ -6,20 +6,22 @@
 ## Eu sou um marido, desenvolvedor, consultor, planejador financeiro e professor!!
 
 <details>
-<summary>- 🎓 Formação Acadêmica</summary>
-- Contador
-- Analista e Desenvolvedor de Sistemas
-- Especialista em Ciências Contábeis
-- Especialista em Finanças
-- Especialista em Big Data Analytics
-- Mestre em Finanças
+  <summary>- 🎓 Formação Acadêmica</summary>
+
+- Contador <br />
+- Analista e Desenvolvedor de Sistemas <br />
+- Especialista em Ciências Contábeis <br />
+- Especialista em Finanças <br />
+- Especialista em Big Data Analytics <br />
+- Mestre em Finanças <br />
+
 </details>
-- 🌱 Estou constantemente estudando e aprendendo tudo o que posso 🤣
-- 👨🏻‍🏫 Mais de 20.000 alunos em cursos e treinamentos em três continentes (BR, US e ES)
-- 🏆 Eleito 3 vezes, umas das 150 pessoas mais influentes do mundo no segmento de tecnologia para pequenas e médias empresas (revista SMB PC Magazine / US)
-- 🏆 Agraciado com o título de MVP (Profissional mais valioso) pela Microsoft, por 11 anos consecutivos
-- 👯 Desejo colaborar com outros criadores de conteúdo
-- ⚡ Curiosidades: Adoro Xadrez e jogos de estratégia
+- 🌱 Estou constantemente estudando e aprendendo tudo o que posso 🤣 \
+- 👨🏻‍🏫 Mais de 20.000 alunos em cursos e treinamentos em três continentes (BR, US e ES) \
+- 🏆 Eleito 3 vezes, umas das 150 pessoas mais influentes do mundo no segmento de tecnologia para pequenas e médias empresas (revista SMB PC Magazine / US) \
+- 🏆 Agraciado com o título de MVP (Profissional mais valioso) pela Microsoft, por 11 anos consecutivos \
+- 👯 Desejo colaborar com outros criadores de conteúdo \
+- ⚡ Curiosidades: Adoro Xadrez e jogos de estratégia \
 
 ### Conecte-se comigo:
 
