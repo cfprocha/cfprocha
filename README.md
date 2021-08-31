@@ -45,18 +45,8 @@
 ---
 
 ### 📕 Minhas últimas postagens no Site
-<<<<<<< HEAD
-<!-- SITE:START -->
-<!-- SITE:END -->
-=======
 <!-- BLOG-POST-LIST:START -->
-- [Erro initramfs no prompt](https://www.carlosfprocha.com.vc/erro-initramfs-no-prompt/?utm_source=rss&utm_medium=rss&utm_campaign=erro-initramfs-no-prompt)
-- [Problema com hora em dual boot](https://www.carlosfprocha.com.vc/problema-com-hora-em-dual-boot/?utm_source=rss&utm_medium=rss&utm_campaign=problema-com-hora-em-dual-boot)
-- [Patrimônio na pandemia: Como proteger o meu?](https://www.carlosfprocha.com.vc/patrimonio-na-pandemia-como-proteger-o-meu/?utm_source=rss&utm_medium=rss&utm_campaign=patrimonio-na-pandemia-como-proteger-o-meu)
-- [Ícones da área de trabalho: como ocultar?](https://www.carlosfprocha.com.vc/icones-da-area-de-trabalho-como-ocultar/?utm_source=rss&utm_medium=rss&utm_campaign=icones-da-area-de-trabalho-como-ocultar)
-- [Criando Subsalas com o Zoom](https://www.carlosfprocha.com.vc/criando-subsalas-com-o-zoom/?utm_source=rss&utm_medium=rss&utm_campaign=criando-subsalas-com-o-zoom)
 <!-- BLOG-POST-LIST:END -->
->>>>>>> 28052a002c812cc1d0b8604cedbd7189fe5efd03
 
 [website]: https://carlosfprocha.com.vc
 [twitter]: https://twitter.com/Paleo_
