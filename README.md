@@ -50,12 +50,8 @@
 
 ---
 
-### 📕 Minhas postagens de Blog
-
+### 📕 Minhas últimas postagens no Site
 <!-- BLOG-POST-LIST:START -->
-- [Finanças](https://www.carlosfprocha.com.vc/financas/)
-- [Gestão](https://www.carlosfprocha.com.vc/gestao/)
-- [Tecnologias](https://www.carlosfprocha.com.vc/tecnologias/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://carlosfprocha.com.vc
