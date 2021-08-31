@@ -45,8 +45,8 @@
 ---
 
 ### 📕 Minhas últimas postagens no Site
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- SITE:START -->
+<!-- SITE:END -->
 
 [website]: https://carlosfprocha.com.vc
 [twitter]: https://twitter.com/Paleo_
