@@ -36,9 +36,10 @@
 [<img align="left" alt="cpaleo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Paleo com você | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
+<br />
 
 ---
-
 
 ### 📺 Meus últimos vídeos no YouTube
 <!-- YOUTUBE:START -->
@@ -59,6 +60,10 @@
 - [Ícones da área de trabalho: como ocultar?](https://www.carlosfprocha.com.vc/icones-da-area-de-trabalho-como-ocultar/?utm_source=rss&utm_medium=rss&utm_campaign=icones-da-area-de-trabalho-como-ocultar)
 - [Criando Subsalas com o Zoom](https://www.carlosfprocha.com.vc/criando-subsalas-com-o-zoom/?utm_source=rss&utm_medium=rss&utm_campaign=criando-subsalas-com-o-zoom)
 <!-- SITE:END -->
+
+---
+
+<img align="left" alt="Estatísticas do Github cfprocha" src="https://github-readme-stats.vercel.app/api?username=cfprocha&show_icons=true&hide_border=true" />
 
 [website]: https://carlosfprocha.com.vc
 [twitter]: https://twitter.com/Paleo_
