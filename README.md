@@ -38,21 +38,15 @@
 
 ---
 
-### 📺 Minhas Playlists no YouTube
-
+### 📺 Meus últimos vídeos no YouTube
 <!-- YOUTUBE:START -->
-- [Ensino](https://www.youtube.com/playlist?list=PLbBa66Rnq-d2up-swE3nDHYsKU9W2WY4i)
-- [Dicas rápidas // Gestão](https://www.youtube.com/playlist?list=PLbBa66Rnq-d1yizgBRH8nmJ4PWBfHuID-)
-- [Dicas rápidas // Tecnologia](https://www.youtube.com/playlist?list=PLbBa66Rnq-d0ZtoFknA30Mv7V1bNlXAad)
-- [Sistemas Operacionais](https://www.youtube.com/playlist?list=PLbBa66Rnq-d2up-swE3nDHYsKU9W2WY4i)
-- [Bancos de Dados](https://www.youtube.com/playlist?list=PLbBa66Rnq-d38F_xyNZOVy3ibkuj1Tge8)
 <!-- YOUTUBE:END -->
 
 ---
 
 ### 📕 Minhas últimas postagens no Site
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- SITE:START -->
+<!-- SITE:END -->
 
 [website]: https://carlosfprocha.com.vc
 [twitter]: https://twitter.com/Paleo_

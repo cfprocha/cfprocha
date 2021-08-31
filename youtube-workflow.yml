@@ -1,16 +1,16 @@
-name: Últimas postagens no site
+name: Últimos vídeos no YouTube
 on:
   schedule:
     - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
+  update-readme-with-youtube:
     name: Atualiza esse repositorio com as ultimas postagens
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "SITE"
-          feed_list: https://www.carlosfprocha.com.vc/feed/
+          comment_tag_name: "YOUTUBE"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCjkG7CbZOfUUCI-7F1XTSOA"
