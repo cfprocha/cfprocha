@@ -18,6 +18,7 @@
 <!-- FORMACAO:END -->
 
 </details>
+
 <!-- MISCELANEA:START-->
 - 🌱 Estou constantemente estudando e aprendendo tudo o que posso 🤣 \
 - 👨🏻‍🏫 Mais de 20.000 alunos em cursos e treinamentos em três continentes (BR, US e ES) \
