@@ -20,12 +20,12 @@
 </details>
 
 <!-- MISCELANEA:START-->
-- 🌱 Estou constantemente estudando e aprendendo tudo o que posso 🤣 \
-- 👨🏻‍🏫 Mais de 20.000 alunos em cursos e treinamentos em três continentes (BR, US e ES) \
-- 🏆 Eleito 3 vezes, umas das 150 pessoas mais influentes do mundo no segmento de tecnologia para pequenas e médias empresas (revista SMB PC Magazine / US) \
-- 🏆 Agraciado com o título de MVP (Profissional mais valioso) pela Microsoft, por 11 anos consecutivos \
-- 👯 Desejo colaborar com outros criadores de conteúdo \
-- ⚡ Curiosidades: Adoro Xadrez e jogos de estratégia \
+- 🌱 Estou constantemente estudando e aprendendo tudo o que posso 🤣
+- 👨🏻‍🏫 Mais de 20.000 alunos em cursos e treinamentos em três continentes (BR, US e ES)
+- 🏆 Eleito 3 vezes, umas das 150 pessoas mais influentes do mundo no segmento de tecnologia para pequenas e médias empresas (revista SMB PC Magazine / US)
+- 🏆 Agraciado com o título de MVP (Profissional mais valioso) pela Microsoft, por 11 anos consecutivos
+- 👯 Desejo colaborar com outros criadores de conteúdo
+- ⚡ Curiosidades: Adoro Xadrez e jogos de estratégia
 <!-- MISCELANEA:END -->
 
 ### Conecte-se comigo:
@@ -35,8 +35,6 @@
 [<img align="left" alt="Paleo_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="cpaleo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Paleo com você | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ---
 
@@ -59,8 +57,6 @@
 - [Gestão](https://www.carlosfprocha.com.vc/gestao/)
 - [Tecnologias](https://www.carlosfprocha.com.vc/tecnologias/)
 <!-- BLOG-POST-LIST:END -->
-
----
 
 [website]: https://carlosfprocha.com.vc
 [twitter]: https://twitter.com/Paleo_
