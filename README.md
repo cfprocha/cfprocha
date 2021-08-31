@@ -19,14 +19,25 @@
 
 </details>
 
-<!-- MISCELANEA:START-->
+<!-- MISCELANEA1:START-->
 - 🌱 Estou constantemente estudando e aprendendo tudo o que posso 🤣
 - 👨🏻‍🏫 Mais de 20.000 alunos em cursos e treinamentos em três continentes (BR, US e ES)
-- 🏆 Eleito 3 vezes, umas das 150 pessoas mais influentes do mundo no segmento de tecnologia para pequenas e médias empresas (revista SMB PC Magazine / US)
-- 🏆 Agraciado com o título de MVP (Profissional mais valioso) pela Microsoft, por 11 anos consecutivos
+<!-- MISCELANEA1:END-->
+
+<details>
+  <summary>- 🏆 Destaques</summary>
+
+  <!--DESTAQUE:START-->
+    - Eleito 3 vezes, umas das 150 pessoas mais influentes do mundo no segmento de tecnologia para pequenas e médias empresas (revista SMB PC Magazine / US)
+    - Agraciado com o título de MVP (Profissional mais valioso) pela Microsoft, por 11 anos consecutivos
+  <!--DESTAQUE:END-->
+
+</details>
+
+<!--MISCELANEA2:START-->
 - 👯 Desejo colaborar com outros criadores de conteúdo
 - ⚡ Curiosidades: Adoro Xadrez e jogos de estratégia
-<!-- MISCELANEA:END -->
+<!-- MISCELANEA2:END -->
 
 ### Conecte-se comigo:
 
