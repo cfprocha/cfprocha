@@ -77,7 +77,7 @@
 ### Cupons
 US$ 100 de créditos por 60 dias
 - [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)][DigitalOcean]
-- [![Vultr Badge](https://www.vultr.com/media/banners/banner_468x60.png)][Vultr]
+- [<img align="left" alt="Vultr Logo" src="https://www.vultr.com/media/logo_onwhite.svg" heigth="60">][Vultr]
 
 ---
 
@@ -91,4 +91,4 @@ US$ 100 de créditos por 60 dias
 [instagram]: https://www.instagram.com/paleocomvc/
 [linkedin]: https://br.linkedin.com/in/cpaleo
 [DigitalOcean]: https://www.digitalocean.com/?refcode=9772a19d8d0f&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge
-[Vultr]: https://www.vultr.com/?ref=8015009
+[Vultr]: https://www.vultr.com/?ref=8919321-6G
