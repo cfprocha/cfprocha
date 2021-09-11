@@ -77,7 +77,7 @@
 ### Cupons
 US$ 100 de créditos por 60 dias
 - [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)][DigitalOcean]
-- [<img align="left" alt="Vultr Logo" src="https://www.vultr.com/media/logo_onwhite.svg" heigth="60">][Vultr]
+- [<img align="left" alt="Vultr Logo" src="https://www.vultr.com/media/logo_onwhite.svg" width="200">][Vultr]
 
 ---
 
