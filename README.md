@@ -48,7 +48,6 @@
 [<img align="left" alt="Paleo com você | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-<br />
 
 ---
 
@@ -78,6 +77,9 @@
 US$ 100 de créditos por 60 dias
 - [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)][DigitalOcean]
 - [<img align="left" alt="Vultr Logo" src="https://www.vultr.com/media/logo_onwhite.svg" width="200">][Vultr]
+
+<br />
+<br />
 
 ---
 
