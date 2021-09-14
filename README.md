@@ -74,7 +74,7 @@
 ---
 
 ### Cupons
-US$ 100 de créditos por 60 dias
+US$ 100 de créditos por 60 dias (Sim, você ganha US$ 100 e eu ganho US$ 25. Vamos ganhar juntos, ;) )
 - [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)][DigitalOcean]
 - [<img align="left" alt="Vultr Logo" src="https://www.vultr.com/media/logo_onwhite.svg" width="200">][Vultr]
 
