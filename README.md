@@ -64,11 +64,11 @@
 
 ### 📕 Minhas últimas postagens no Site
 <!-- SITE:START -->
+- [Renda: Como está a sua?](https://www.carlosfprocha.com.vc/renda-como-esta-a-sua/?utm_source=rss&utm_medium=rss&utm_campaign=renda-como-esta-a-sua)
 - [Dívidas: cuidado ao contrair](https://www.carlosfprocha.com.vc/dividas-cuidado-ao-contrair/?utm_source=rss&utm_medium=rss&utm_campaign=dividas-cuidado-ao-contrair)
 - [VirtualBox: acessando a Máquina Virtual a partir do Hospedeiro](https://www.carlosfprocha.com.vc/virtualbox-acessando-a-maquina-virtual-a-partir-do-hospedeiro/?utm_source=rss&utm_medium=rss&utm_campaign=virtualbox-acessando-a-maquina-virtual-a-partir-do-hospedeiro)
 - [Erro initramfs no prompt](https://www.carlosfprocha.com.vc/erro-initramfs-no-prompt/?utm_source=rss&utm_medium=rss&utm_campaign=erro-initramfs-no-prompt)
 - [Problema com hora em dual boot](https://www.carlosfprocha.com.vc/problema-com-hora-em-dual-boot/?utm_source=rss&utm_medium=rss&utm_campaign=problema-com-hora-em-dual-boot)
-- [Patrimônio na pandemia: Como proteger o meu?](https://www.carlosfprocha.com.vc/patrimonio-na-pandemia-como-proteger-o-meu/?utm_source=rss&utm_medium=rss&utm_campaign=patrimonio-na-pandemia-como-proteger-o-meu)
 <!-- SITE:END -->
 
 ---
