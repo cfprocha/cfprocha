@@ -53,11 +53,11 @@
 
 ### 📺 Meus últimos vídeos no YouTube
 <!-- YOUTUBE:START -->
+- [Windows Server 2022 2.L: Servidor Internet ASP.NET](https://www.youtube.com/watch?v=CZEonbrN_xU)
+- [Windows Server 2022 1.L: Servidor Internet - HTML](https://www.youtube.com/watch?v=JXqPEmG33Og)
 - [Windows Server 2022 0.L: Instalação](https://www.youtube.com/watch?v=fD_2ZrnhcFQ)
 - [Ubuntu Server 1.L: Controle de usuários](https://www.youtube.com/watch?v=h549-ref2y8)
 - [Ubuntu Server 0.L: Instalação Local](https://www.youtube.com/watch?v=zwKTwUCn2H0)
-- [Multiplas janelas, no Zoom](https://www.youtube.com/watch?v=OljfT7eAgr0)
-- [OWASP Juice Shop](https://www.youtube.com/watch?v=RHPIKMwQrzw)
 <!-- YOUTUBE:END -->
 
 ---
