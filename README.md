@@ -53,11 +53,11 @@
 
 ### 📺 Meus últimos vídeos no YouTube
 <!-- YOUTUBE:START -->
+- [Ubuntu Server X.L: Senha esquecida](https://www.youtube.com/watch?v=OVgQB2BImTA)
 - [Windows Server 2022 3.L: Servidor Internet - PHP](https://www.youtube.com/watch?v=8VZEFE42-S0)
 - [Windows Server 2022 2.L: Servidor Internet - ASP.NET](https://www.youtube.com/watch?v=CZEonbrN_xU)
 - [Windows Server 2022 1.L: Servidor Internet - HTML](https://www.youtube.com/watch?v=JXqPEmG33Og)
 - [Windows Server 2022 0.L: Instalação](https://www.youtube.com/watch?v=fD_2ZrnhcFQ)
-- [Ubuntu Server 1.L: Controle de usuários](https://www.youtube.com/watch?v=h549-ref2y8)
 <!-- YOUTUBE:END -->
 
 ---
