@@ -53,11 +53,11 @@
 
 ### 📺 Meus últimos vídeos no YouTube
 <!-- YOUTUBE:START -->
+- [Windows 11 0.L: Instalação](https://www.youtube.com/watch?v=6CoFl1WRL6I)
 - [Windows 10 0.L: Instalação](https://www.youtube.com/watch?v=uR5w4BkW-P0)
 - [Ubuntu Server 2.L: Autenticação de Dois Fatores no SSH](https://www.youtube.com/watch?v=2__eWqmaYF4)
 - [Ubuntu Server X.L: Senha esquecida](https://www.youtube.com/watch?v=OVgQB2BImTA)
 - [Windows Server 2022 3.L: Servidor Internet - PHP](https://www.youtube.com/watch?v=8VZEFE42-S0)
-- [Windows Server 2022 2.L: Servidor Internet - ASP.NET](https://www.youtube.com/watch?v=CZEonbrN_xU)
 <!-- YOUTUBE:END -->
 
 ---
