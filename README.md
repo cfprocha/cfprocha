@@ -53,11 +53,11 @@
 
 ### 📺 Meus últimos vídeos no YouTube
 <!-- YOUTUBE:START -->
+- [Ubuntu Server 3.L: Lista de tarefas com 1 variável e 3 funções](https://www.youtube.com/watch?v=UovKBFpzlWQ)
 - [Linux Mint 0.L: Instalação](https://www.youtube.com/watch?v=p-_5_XSvaz0)
 - [Windows 11 0.L: Instalação](https://www.youtube.com/watch?v=6CoFl1WRL6I)
 - [Windows 10 0.L: Instalação](https://www.youtube.com/watch?v=uR5w4BkW-P0)
 - [Ubuntu Server 2.L: Autenticação de Dois Fatores no SSH](https://www.youtube.com/watch?v=2__eWqmaYF4)
-- [Ubuntu Server X.L: Senha esquecida](https://www.youtube.com/watch?v=OVgQB2BImTA)
 <!-- YOUTUBE:END -->
 
 ---
