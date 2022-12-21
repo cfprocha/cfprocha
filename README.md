@@ -1,9 +1,6 @@
-### Olá, eu sou o Carlos - mais conhecido por [Paleo][website] 👋
+## Olá, eu sou o Carlos - mais conhecido por [Paleo][website] 👋
 
-[![Website](https://img.shields.io/website?label=carlosfprocha.com.vc&style=for-the-badge&url=https%3A%2F%2Fcarlosfprocha.com.vc)](https://carlosfprocha.com.vc)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Paleo_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPaleo_&screen_name=Paleo_)
-
-## Eu sou um marido, desenvolvedor, consultor, planejador financeiro e professor!!
+### Eu sou um marido, desenvolvedor, consultor, planejador financeiro e professor!!
 
 <details>
   <summary>- 🎓 Formação Acadêmica</summary>
