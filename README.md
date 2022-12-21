@@ -46,6 +46,7 @@
 [<img align="left" alt="Paleo_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="cpaleo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Paleo com você | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Paleo com você | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -91,6 +92,7 @@ US$ 100 de créditos por 60 dias (Sim, você ganha US$ 100 e eu ganho US$ 25. Va
 [twitter]: https://twitter.com/Paleo_
 [youtube]: https://www.youtube.com/c/CarlosPaleodaRocha
 [instagram]: https://www.instagram.com/paleocomvc/
+[facebook]: https://www.facebook.com/PaleoComVc
 [linkedin]: https://br.linkedin.com/in/cpaleo
 [DigitalOcean]: https://www.digitalocean.com/?refcode=9772a19d8d0f&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge
 [Vultr]: https://www.vultr.com/?ref=8919321-6G
