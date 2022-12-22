@@ -25,7 +25,8 @@
   <summary>- 🏆 Destaques</summary>
 
   <!--DESTAQUE:START-->
-    - Eleito 3 vezes, umas das 150 pessoas mais influentes do mundo no segmento de tecnologia para pequenas e médias empresas (revista SMB PC Magazine / US)
+    - Eleito 3 vezes, umas das 150 pessoas mais influentes do mundo
+        - Segmento de tecnologia para pequenas e médias empresas (revista SMB PC Magazine / US)
     - Agraciado com o título de MVP (Profissional mais valioso) pela Microsoft, por 11 anos consecutivos
   <!--DESTAQUE:END-->
 
