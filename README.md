@@ -102,6 +102,7 @@
       <img alt="QEMU" src="https://img.shields.io/badge/QEMU-FF6600?logo=qemu&logoColor=white&style=for-the-badge" />
       <img alt="VMWare" src="https://img.shields.io/badge/-VMWare-607078?logo=vmware&logoColor=white&style=for-the-badge" />
       <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-E57000?logo=proxmox&logoColor=white&style=for-the-badge" />
+      <img alt="Hyper-V" src="https://img.shields.io/badge/-Hyper_V-017AD7?logoColor=white&style=for-the-badge" />  
       <img alt="Git" src="https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge" />
       <img alt="Windows" src="https://img.shields.io/badge/Windows-017AD7?logo=windows&logoColor=white&style=for-the-badge" />
       <img alt="Linux" src="https://img.shields.io/badge/Linux-E34F26?logo=linux&logoColor=black&style=for-the-badge" />
