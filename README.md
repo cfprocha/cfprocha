@@ -154,9 +154,10 @@ US$ 100 de créditos por 60 dias (Sim, você ganha US$ 100 e eu ganho US$ 25. Va
 
 ---
 
-<img align="left" alt="Estatísticas do Github cfprocha" src="https://github-readme-stats.vercel.app/api?username=cfprocha&show_icons=true&hide_border=true&hide=stars,prs,issues,contribs&count_private=true&theme=tokionight" />
+<img align="left" alt="Estatísticas do Github cfprocha" src="https://github-readme-stats.vercel.app/api?username=cfprocha&show_icons=true&hide_border=false&hide=prs,issues,contribs&count_private=true&theme=tokionight" />
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=cfprocha&theme=blue-green)
+[![Sequência de contribuições](https://streak-stats.demolab.com?user=cfprocha&theme=blue-green&locale=pt_BR)](https://git.io/streak-stats)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=cfprocha&theme=blue-green&count_private=true&langs_count=10)
 
 [website]: https://carlosfprocha.com.vc
 [twitter]: https://twitter.com/Paleo_
