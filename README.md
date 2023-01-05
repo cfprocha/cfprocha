@@ -1,3 +1,5 @@
+<img src="imgs/banner.png" alt="banner" />
+
 ## Olá, eu sou o Carlos - mais conhecido por [Paleo][website] 👋
 
 ### Eu sou um marido, desenvolvedor, consultor, planejador financeiro e professor!!
