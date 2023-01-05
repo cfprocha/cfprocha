@@ -1,4 +1,4 @@
-<img src="imgs/banner.png" alt="banner" />
+![alt text](imgs/banner.png "Banner")
 
 ## Olá, eu sou o Carlos - mais conhecido por [Paleo][website] 👋
 
