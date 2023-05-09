@@ -159,11 +159,11 @@ US$ 100 de créditos por 60 dias (Sim, você ganha US$ 100 e eu ganho US$ 25. Va
 <div style="width: 100%;">
 <div style="width: 50%;">
 
-  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=cfprocha&theme=blue-green&count_private=true&langs_count=10)
+  ![Linguagens mais usadas](https://github-readme-stats-gamma-three-34.vercel.app/api/top-langs/?username=cfprocha&theme=blue-green&count_private=true&langs_count=10)
   
 </div><div style="width: 50%;">
 
-<img align="left" alt="Estatísticas do Github cfprocha" src="https://github-readme-stats.vercel.app/api?username=cfprocha&show_icons=true&hide_border=false&hide=prs,issues,contribs,stars&count_private=true&theme=tokionight" />
+<img align="left" alt="Estatísticas do Github cfprocha" src="https://github-readme-stats-gamma-three-34.vercel.app//api?username=cfprocha&show_icons=true&hide_border=false&hide=prs,issues,contribs,stars&count_private=true&theme=tokionight" />
 
 [![Sequência de contribuições](https://streak-stats.demolab.com?user=cfprocha&theme=blue-green&locale=pt_BR)](https://git.io/streak-stats)
  
