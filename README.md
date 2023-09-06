@@ -137,11 +137,11 @@
 
 ### 📕 Minhas últimas postagens no Site
 <!-- SITE:START -->
-- [Clonando os repositórios do Github](https://www.carlosfprocha.com.vc/clonando-os-repositorios-do-github/?utm_source=rss&utm_medium=rss&utm_campaign=clonando-os-repositorios-do-github)
-- [VirtualBox: Parent UUID of medium does not match UUID](https://www.carlosfprocha.com.vc/virtualbox-parent-uuid-of-medium-does-not-match-uuid/?utm_source=rss&utm_medium=rss&utm_campaign=virtualbox-parent-uuid-of-medium-does-not-match-uuid)
-- [Esqueceu a senha do MacOS](https://www.carlosfprocha.com.vc/esqueceu-a-senha-do-macos/?utm_source=rss&utm_medium=rss&utm_campaign=esqueceu-a-senha-do-macos)
-- [Command no VirtualBox com Mac OS](https://www.carlosfprocha.com.vc/command-no-virtualbox-com-mac-os/?utm_source=rss&utm_medium=rss&utm_campaign=command-no-virtualbox-com-mac-os)
-- [Renda: Como está a sua?](https://www.carlosfprocha.com.vc/renda-como-esta-a-sua/?utm_source=rss&utm_medium=rss&utm_campaign=renda-como-esta-a-sua)
+- [Clonando os repositórios do Github](https://www.carlosfprocha.com.vc/clonando-os-repositorios-do-github/)
+- [VirtualBox: Parent UUID of medium does not match UUID](https://www.carlosfprocha.com.vc/virtualbox-parent-uuid-of-medium-does-not-match-uuid/)
+- [Esqueceu a senha do MacOS](https://www.carlosfprocha.com.vc/esqueceu-a-senha-do-macos/)
+- [Command no VirtualBox com Mac OS](https://www.carlosfprocha.com.vc/command-no-virtualbox-com-mac-os/)
+- [Renda: Como está a sua?](https://www.carlosfprocha.com.vc/renda-como-esta-a-sua/)
 <!-- SITE:END -->
 
 ---
