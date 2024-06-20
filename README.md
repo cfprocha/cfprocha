@@ -126,11 +126,11 @@
 
 ### 📺 Meus últimos vídeos no YouTube
 <!-- YOUTUBE:START -->
+- [Oracle Free - Instalação e Teste](https://www.youtube.com/watch?v=iOYRNx4aOGA)
 - [Instalando servidor web e banco de dados no WSL](https://www.youtube.com/watch?v=9zW-BqChmyY)
 - [Ubuntu Server 3.L: Lista de tarefas com 1 variável e 3 funções](https://www.youtube.com/watch?v=UovKBFpzlWQ)
 - [Linux Mint 0.L: Instalação](https://www.youtube.com/watch?v=p-_5_XSvaz0)
 - [Windows 11 0.L: Instalação](https://www.youtube.com/watch?v=6CoFl1WRL6I)
-- [Windows 10 0.L: Instalação](https://www.youtube.com/watch?v=uR5w4BkW-P0)
 <!-- YOUTUBE:END -->
 
 ---
