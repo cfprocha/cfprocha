@@ -126,11 +126,11 @@
 
 ### 📺 Meus últimos vídeos no YouTube
 <!-- YOUTUBE:START -->
+- [MongoDB Community, Instalação e Inserção de dados](https://www.youtube.com/watch?v=PWvCgvEQD_8)
 - [Oracle Free - Instalação e Teste](https://www.youtube.com/watch?v=iOYRNx4aOGA)
 - [Instalando servidor web e banco de dados no WSL](https://www.youtube.com/watch?v=9zW-BqChmyY)
 - [Ubuntu Server 3.L: Lista de tarefas com 1 variável e 3 funções](https://www.youtube.com/watch?v=UovKBFpzlWQ)
 - [Linux Mint 0.L: Instalação](https://www.youtube.com/watch?v=p-_5_XSvaz0)
-- [Windows 11 0.L: Instalação](https://www.youtube.com/watch?v=6CoFl1WRL6I)
 <!-- YOUTUBE:END -->
 
 ---
