@@ -126,11 +126,11 @@
 
 ### 📺 Meus últimos vídeos no YouTube
 <!-- YOUTUBE:START -->
+- [Instalando o Windows Subsystem for Linux &lpar;WSL&rpar; no Windows 11](https://www.youtube.com/watch?v=j2dLdQvA4l4)
+- [Instalando Chocolatey  no Windows 11](https://www.youtube.com/watch?v=-8WKkg4FqpU)
 - [MongoDB Community, Instalação e Inserção de dados](https://www.youtube.com/watch?v=PWvCgvEQD_8)
 - [Oracle Free - Instalação e Teste](https://www.youtube.com/watch?v=iOYRNx4aOGA)
 - [Instalando servidor web e banco de dados no WSL](https://www.youtube.com/watch?v=9zW-BqChmyY)
-- [Ubuntu Server 3.L: Lista de tarefas com 1 variável e 3 funções](https://www.youtube.com/watch?v=UovKBFpzlWQ)
-- [Linux Mint 0.L: Instalação](https://www.youtube.com/watch?v=p-_5_XSvaz0)
 <!-- YOUTUBE:END -->
 
 ---
