@@ -91,6 +91,7 @@
       <img alt="Apache" src="https://img.shields.io/badge/Apache-CA2136?logo=apache&logoColor=white&style=for-the-badge" />
       <img alt="NGINX" src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge" />
       <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+      <img alt="Podman" src="https://img.shields.io/badge/-Podman-892CA0?logo=podman&style=for-the-badge" />
       <img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge" />
       <img alt="QEMU" src="https://img.shields.io/badge/QEMU-FF6600?logo=qemu&logoColor=white&style=for-the-badge" />
       <img alt="VMWare" src="https://img.shields.io/badge/-VMWare-607078?logo=vmware&logoColor=white&style=for-the-badge" />
