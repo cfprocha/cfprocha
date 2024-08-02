@@ -43,7 +43,7 @@
 
 [<img align="left" alt="carlosfprocha.com.vc" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Carlos Paleo da Rocha | YouTube" width="22px" src="https://cdn.simpleicons.org/youtube" />][youtube]
-[<img align="left" alt="Paleo_ | Twitter" width="22px" src="https://cdn.simpleicons.org/twitter" />][twitter]
+[<img align="left" alt="Paleo_ | X" width="22px" src="https://cdn.simpleicons.org/x" />][twitter]
 [<img align="left" alt="cpaleo | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
 [<img align="left" alt="Paleo com você | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram" />][instagram]
 [<img align="left" alt="Paleo com você | Facebook" width="22px" src="https://cdn.simpleicons.org/facebook" />][facebook]
@@ -56,32 +56,23 @@
 
 <section>
       <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
-      <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ-20232A?logo=intellij-idea&logoColor=white&style=for-the-badge" />
-      <img alt="PHP Storm" src="https://img.shields.io/badge/-PHP%20Storm-20232A?logo=phpstorm&logoColor=white&style=for-the-badge" />
-      <img alt="Dream Weaver" src="https://img.shields.io/badge/-adobe_dreamweaver-FF61F6?logo=adobe-dreamweaver&logoColor=white&style=for-the-badge" />
       <img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" />
       <img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
       <img alt="HTML5" src="https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge" />
       <img alt="CSS3" src="https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=for-the-badge" />
-      <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=for-the-badge" />
-      <img alt="ECMAScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
       <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge" />
       <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" />
       <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
       <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
       <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
       <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge" />
-      <img alt="Material-UI" src="https://img.shields.io/badge/Material_UI-007FFF?logo=mui&logoColor=white&style=for-the-badge" />
-      <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white&style=for-the-badge" />
       <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
-      <img alt="PHP myAdmin" src="https://img.shields.io/badge/-PHP%20myAdmin-6C78AF?logo=phpmyadmin&logoColor=white&style=for-the-badge" />
       <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" />
       <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
       <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" />
       <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white&style=for-the-badge" />
       <img alt="mySQL" src="https://img.shields.io/badge/MySQL-20232A?logo=mysql&logoColor=white&style=for-the-badge" />
       <img alt="mariaDB" src="https://img.shields.io/badge/MariaDB-01529E?logo=mariadb&logoColor=white&style=for-the-badge" />
-      <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge" />
       <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge" />
       <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white&style=for-the-badge" />
       <img alt="MS SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge" />
