@@ -129,11 +129,11 @@
 
 ### 📕 Minhas últimas postagens no Site
 <!-- SITE:START -->
+- [Delegar ou Delargar: eis a questão](https://www.carlosfprocha.com.vc/delegar-ou-delargar-eis-a-questao/)
 - [Clonando os repositórios do Github](https://www.carlosfprocha.com.vc/clonando-os-repositorios-do-github/)
 - [VirtualBox: Parent UUID of medium does not match UUID](https://www.carlosfprocha.com.vc/virtualbox-parent-uuid-of-medium-does-not-match-uuid/)
 - [Esqueceu a senha do MacOS](https://www.carlosfprocha.com.vc/esqueceu-a-senha-do-macos/)
 - [Command no VirtualBox com Mac OS](https://www.carlosfprocha.com.vc/command-no-virtualbox-com-mac-os/)
-- [Renda: Como está a sua?](https://www.carlosfprocha.com.vc/renda-como-esta-a-sua/)
 <!-- SITE:END -->
 
 ---
