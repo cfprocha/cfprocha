@@ -129,11 +129,11 @@
 
 ### 📕 Minhas últimas postagens no Site
 <!-- SITE:START -->
+- [Page Cache Poisoning: Quando o Núcleo Se Torna Seu Pior Inimigo: Copy Fail &lpar;CVE-2026-31431&rpar;](https://www.carlosfprocha.com.vc/page-cache-poisoning-quando-o-nucleo-se-torna-seu-pior-inimigo-copy-fail-cve-2026-31431/)
 - [Teoria das Bandeiras: Como Viver sem Fronteiras e Proteger sua Riqueza pelo Mundo](https://www.carlosfprocha.com.vc/teoria-das-bandeiras-como-viver-sem-fronteiras-e-proteger-sua-riqueza-pelo-mundo/)
 - [Internet Cabeada: O Poder Oculto que Conecta o Mundo](https://www.carlosfprocha.com.vc/internet-cabeada-o-poder-oculto-que-conecta-o-mundo/)
 - [Delegar ou Delargar: eis a questão](https://www.carlosfprocha.com.vc/delegar-ou-delargar-eis-a-questao/)
 - [Clonando os repositórios do Github](https://www.carlosfprocha.com.vc/clonando-os-repositorios-do-github/)
-- [VirtualBox: Parent UUID of medium does not match UUID](https://www.carlosfprocha.com.vc/virtualbox-parent-uuid-of-medium-does-not-match-uuid/)
 <!-- SITE:END -->
 
 ---
