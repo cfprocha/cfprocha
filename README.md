@@ -122,7 +122,7 @@
 - [Instalando Chocolatey  no Windows 11](https://www.youtube.com/watch?v=-8WKkg4FqpU)
 - [MongoDB Community, Instalação e Inserção de dados](https://www.youtube.com/watch?v=PWvCgvEQD_8)
 - [Oracle Free - Instalação e Teste](https://www.youtube.com/watch?v=iOYRNx4aOGA)
-- [Instalando servidor web e banco de dados no WSL](https://www.youtube.com/watch?v=9zW-BqChmyY)
+- [Instalando servidor web e banco de dados mariaDB no WSL](https://www.youtube.com/watch?v=9zW-BqChmyY)
 <!-- YOUTUBE:END -->
 
 ---
